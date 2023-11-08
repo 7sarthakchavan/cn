@@ -1,0 +1,67 @@
+C:\java_prog>javac UDPSfile.java
+
+C:\java_prog>java UDPSfile
+hello
+
+
+C://java_prog//sample_file.txt
+Hi................
+Transfer file from one machine to another machine
+
+
+C:\java_prog>javac UDPCfile.java
+
+C:\java_prog>java UDPCfile
+42 Files found
+
+Assignment_no_6 ,size4096bytes
+Assignment_no_7 ,size4096bytes
+cd ,size0bytes
+Client.class ,size1053bytes
+Client.java ,size632bytes
+ClientCode.class ,size1523bytes
+ClientCode.java ,size967bytes
+DES.class ,size2821bytes
+DES.java ,size2476bytes
+DES_output1.jpg ,size96481bytes
+des_output2.jpg ,size58548bytes
+FileClient.class ,size1178bytes
+FileClient.java ,size851bytes
+FileServer.class ,size1763bytes
+FileServer.java ,size1413bytes
+File_output.txt ,size589bytes
+IPDemo.class ,size1663bytes
+IPDemo.java ,size2600bytes
+java ,size0bytes
+javac ,size0bytes
+Main.java ,size1986bytes
+sample_file.txt ,size69bytes
+Server.class ,size1193bytes
+Server.java ,size684bytes
+ServerCode.class ,size1723bytes
+ServerCode.java ,size1069bytes
+set ,size0bytes
+TCPClient.class ,size1303bytes
+TCPClient.java ,size856bytes
+TCPServer.class ,size1181bytes
+TCPServer.java ,size811bytes
+TCP_output.rtf ,size765bytes
+TCP_output.txt ,size644bytes
+UDPCfile.class ,size2449bytes
+UDPCfile.java ,size1914bytes
+UDPClient.class ,size1463bytes
+UDPClient.java ,size1108bytes
+UDPServer.class ,size1226bytes
+UDPServer.java ,size1225bytes
+UDPSfile.class ,size1313bytes
+UDPSfile.java ,size1322bytes
+UDP_output.txt ,size826bytes
+
+ Enter filename for download
+sample_file.txt
+sample_file.txt
+Hi................
+Transfer file from one machine to another machine
+
+
+C:\java_prog>

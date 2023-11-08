@@ -1,0 +1,36 @@
+*************Server***********
+
+C:\Users\91772>cd..
+
+C:\Users>cd..
+
+C:\>set path =C:\Program Files\Java\jdk1.8.0_201\bin
+
+C:\>set classpath =C:\java_prog
+
+C:\>cd java_prog
+
+C:\java_prog>
+C:\java_prog>javac UDPServer.java
+
+C:\java_prog>java UDPServer
+RECEIVED: Hi                        
+
+
+
+*********Client*************
+C:\Users\91772>cd..
+
+C:\Users>cd..
+
+C:\>set path =C:\Program Files\Java\jdk1.8.0_201\bin
+
+C:\>set classpath =C:\java_prog
+
+C:\>cd java_prog
+
+C:\java_prog>javac UDPClient.java
+
+C:\java_prog>java UDPClient
+Enter Message for server:Hi
+FROM SERVER:HI                                                                                                                                                                                                                                  

@@ -1,0 +1,41 @@
+************************Server*******************************
+
+C:\java_prog>javac ServerCode.java
+
+C:\java_prog>java ServerCode
+Server is listening port 8080
+Connection established...
+Msg from client
+Hi Server
+Enter the msg
+Hello Client
+Msg from client
+I am Client
+Enter the msg
+I am Server
+Msg from client
+bye
+Enter the msg
+bye
+
+C:\java_prog>
+
+****************************Client*************************************
+
+C:\java_prog>javac ClientCode.java
+
+C:\java_prog>java ClientCode
+Enter the msg
+Hi Server
+Msg from Server
+Hello Client
+Enter the msg
+I am Client
+Msg from Server
+I am Server
+Enter the msg
+bye
+Msg from Server
+bye
+
+C:\java_prog>
